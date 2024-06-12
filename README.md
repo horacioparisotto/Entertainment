@@ -1,6 +1,7 @@
-Lessons Leardned:
+# Netflix
+Lessons Learned:
 React
 Redux
-API
-Stripe
 Firebase
+Stripe
+API
